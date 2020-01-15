@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: ae9d9b98294435a408738f605adac47b
+timeCreated: 1492528929
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Interior_door_a
+    100002: Interior_door_b
+    100004: Interior_door_c
+    100006: //RootNode
+    100008: ModuleE_floor01
+    100010: ModuleE_floor02
+    100012: ModuleE_floor03
+    100014: ModuleE_floor04
+    100016: ModuleE_floor05
+    100018: Object009
+    100020: Object011
+    100022: Object013
+    100024: Interior_doorskb_01
+    100026: Interior_doorskb_02
+    100028: Interior_doorskb_03
+    400000: Interior_door_a
+    400002: Interior_door_b
+    400004: Interior_door_c
+    400006: //RootNode
+    400008: ModuleE_floor01
+    400010: ModuleE_floor02
+    400012: ModuleE_floor03
+    400014: ModuleE_floor04
+    400016: ModuleE_floor05
+    400018: Object009
+    400020: Object011
+    400022: Object013
+    400024: Interior_doorskb_01
+    400026: Interior_doorskb_02
+    400028: Interior_doorskb_03
+    2300000: Interior_door_a
+    2300002: Interior_door_b
+    2300004: Interior_door_c
+    2300006: ModuleE_floor01
+    2300008: ModuleE_floor02
+    2300010: ModuleE_floor03
+    2300012: ModuleE_floor04
+    2300014: ModuleE_floor05
+    2300016: Object009
+    2300018: Object011
+    2300020: Object013
+    2300022: Interior_doorskb_01
+    2300024: Interior_doorskb_02
+    2300026: Interior_doorskb_03
+    3300000: Interior_door_a
+    3300002: Interior_door_b
+    3300004: Interior_door_c
+    3300006: ModuleE_floor01
+    3300008: ModuleE_floor02
+    3300010: ModuleE_floor03
+    3300012: ModuleE_floor04
+    3300014: ModuleE_floor05
+    3300016: Object009
+    3300018: Object011
+    3300020: Object013
+    3300022: Interior_doorskb_01
+    3300024: Interior_doorskb_02
+    3300026: Interior_doorskb_03
+    4300000: ModuleE_floor03
+    4300002: ModuleE_floor04
+    4300004: Interior_door_c
+    4300006: ModuleE_floor05
+    4300008: ModuleE_floor01
+    4300010: Interior_door_b
+    4300012: Interior_door_a
+    4300014: ModuleE_floor02
+    4300016: Object009
+    4300018: Object011
+    4300020: Object013
+    4300022: Interior_doorskb_01
+    4300024: Interior_doorskb_02
+    4300026: Interior_doorskb_03
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 70
+    secondaryUVAreaDistortion: 63
+    secondaryUVHardAngle: 160
+    secondaryUVPackMargin: 61
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

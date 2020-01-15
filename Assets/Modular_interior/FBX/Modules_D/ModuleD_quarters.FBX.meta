@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 2190efaff55ea7742ab30760b90eb0d3
+timeCreated: 1493191385
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ModuleD_floor00
+    100002: ModuleD_floor01
+    100004: ModuleD_floor02
+    100006: ModuleD_floor03
+    100008: ModuleD_quarter_00
+    100010: ModuleD_quarter_01
+    100012: ModuleD_quarter_02
+    100014: ModuleD_quarter_03
+    100016: //RootNode
+    100018: ModuleD_skboard_00
+    100020: ModuleD_skboard_01
+    100022: ModuleD_skboard_02
+    100024: ModuleD_skboard_03
+    100026: ModuleD_wall_00
+    100028: ModuleD_wall_01
+    100030: ModuleD_wall_02
+    100032: ModuleD_wall_03
+    400000: ModuleD_floor00
+    400002: ModuleD_floor01
+    400004: ModuleD_floor02
+    400006: ModuleD_floor03
+    400008: ModuleD_quarter_00
+    400010: ModuleD_quarter_01
+    400012: ModuleD_quarter_02
+    400014: ModuleD_quarter_03
+    400016: //RootNode
+    400018: ModuleD_skboard_00
+    400020: ModuleD_skboard_01
+    400022: ModuleD_skboard_02
+    400024: ModuleD_skboard_03
+    400026: ModuleD_wall_00
+    400028: ModuleD_wall_01
+    400030: ModuleD_wall_02
+    400032: ModuleD_wall_03
+    2300000: ModuleD_floor00
+    2300002: ModuleD_floor01
+    2300004: ModuleD_floor02
+    2300006: ModuleD_floor03
+    2300008: ModuleD_quarter_00
+    2300010: ModuleD_quarter_01
+    2300012: ModuleD_quarter_02
+    2300014: ModuleD_quarter_03
+    2300016: ModuleD_skboard_00
+    2300018: ModuleD_skboard_01
+    2300020: ModuleD_skboard_02
+    2300022: ModuleD_skboard_03
+    2300024: ModuleD_wall_00
+    2300026: ModuleD_wall_01
+    2300028: ModuleD_wall_02
+    2300030: ModuleD_wall_03
+    3300000: ModuleD_floor00
+    3300002: ModuleD_floor01
+    3300004: ModuleD_floor02
+    3300006: ModuleD_floor03
+    3300008: ModuleD_quarter_00
+    3300010: ModuleD_quarter_01
+    3300012: ModuleD_quarter_02
+    3300014: ModuleD_quarter_03
+    3300016: ModuleD_skboard_00
+    3300018: ModuleD_skboard_01
+    3300020: ModuleD_skboard_02
+    3300022: ModuleD_skboard_03
+    3300024: ModuleD_wall_00
+    3300026: ModuleD_wall_01
+    3300028: ModuleD_wall_02
+    3300030: ModuleD_wall_03
+    4300000: ModuleD_floor01
+    4300002: ModuleD_quarter_01
+    4300004: ModuleD_quarter_00
+    4300006: ModuleD_floor00
+    4300008: ModuleD_quarter_02
+    4300010: ModuleD_quarter_03
+    4300012: ModuleD_floor03
+    4300014: ModuleD_floor02
+    4300016: ModuleD_skboard_02
+    4300018: ModuleD_wall_00
+    4300020: ModuleD_skboard_00
+    4300022: ModuleD_skboard_01
+    4300024: ModuleD_skboard_03
+    4300026: ModuleD_wall_03
+    4300028: ModuleD_wall_02
+    4300030: ModuleD_wall_01
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

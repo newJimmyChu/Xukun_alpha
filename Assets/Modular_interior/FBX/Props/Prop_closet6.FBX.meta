@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 70824f90ca6e3bd448996748e62b98bc
+timeCreated: 1493110251
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ModuleE_doorhandlep_064
+    100002: ModuleE_doorhandlep_065
+    100004: Prop_closet019
+    100006: Prop_closet022
+    100008: Prop_closet023
+    100010: //RootNode
+    400000: ModuleE_doorhandlep_064
+    400002: ModuleE_doorhandlep_065
+    400004: Prop_closet019
+    400006: Prop_closet022
+    400008: Prop_closet023
+    400010: //RootNode
+    2300000: ModuleE_doorhandlep_064
+    2300002: ModuleE_doorhandlep_065
+    2300004: Prop_closet019
+    2300006: Prop_closet022
+    2300008: Prop_closet023
+    3300000: ModuleE_doorhandlep_064
+    3300002: ModuleE_doorhandlep_065
+    3300004: Prop_closet019
+    3300006: Prop_closet022
+    3300008: Prop_closet023
+    4300000: Prop_closet019
+    4300002: ModuleE_doorhandlep_064
+    4300004: Prop_closet022
+    4300006: ModuleE_doorhandlep_065
+    4300008: Prop_closet023
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 42
+    secondaryUVAreaDistortion: 41
+    secondaryUVHardAngle: 134
+    secondaryUVPackMargin: 27
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

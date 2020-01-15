@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: a49de9e255f6d0044bbb12a4578e41cc
+timeCreated: 1492702337
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Interior_door_a004
+    100002: Interior_door_a005
+    100004: Interior_door_b001
+    100006: Interior_door_b002
+    100008: Interior_door_c001
+    100010: Interior_door_c002
+    100012: ModuleD_center01
+    100014: ModuleD_floor05c001
+    100016: ModuleE_doorleaf
+    100018: ModuleE_doubledoor1
+    100020: //RootNode
+    400000: Interior_door_a004
+    400002: Interior_door_a005
+    400004: Interior_door_b001
+    400006: Interior_door_b002
+    400008: Interior_door_c001
+    400010: Interior_door_c002
+    400012: ModuleD_center01
+    400014: ModuleD_floor05c001
+    400016: ModuleE_doorleaf
+    400018: ModuleE_doubledoor1
+    400020: //RootNode
+    2300000: Interior_door_a004
+    2300002: Interior_door_a005
+    2300004: Interior_door_b001
+    2300006: Interior_door_b002
+    2300008: Interior_door_c001
+    2300010: Interior_door_c002
+    2300012: ModuleD_floor05c001
+    3300000: Interior_door_a004
+    3300002: Interior_door_a005
+    3300004: Interior_door_b001
+    3300006: Interior_door_b002
+    3300008: Interior_door_c001
+    3300010: Interior_door_c002
+    3300012: ModuleD_floor05c001
+    4300000: ModuleD_floor05c001
+    4300002: Interior_door_c001
+    4300004: Interior_door_a004
+    4300006: Interior_door_b001
+    4300008: Interior_door_b002
+    4300010: Interior_door_a005
+    4300012: Interior_door_c002
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 70
+    secondaryUVAreaDistortion: 63
+    secondaryUVHardAngle: 160
+    secondaryUVPackMargin: 61
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
