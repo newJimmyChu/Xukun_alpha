@@ -11,7 +11,7 @@ public class interactable_1 : MonoBehaviour
 
     private void OnTriggerStay(Collider other)
     {
-        if (other.gameObject.tag == "Player") ;
+        if (other.gameObject.tag == "Player") 
         {
             if (Input.GetKey(KeyCode.E) && (Time.time > Next))
             {
