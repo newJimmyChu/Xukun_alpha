@@ -5,7 +5,7 @@ using UnityEngine;
 public class drawer : MonoBehaviour
 {
     private bool OpenCLoseFlag = false;
-    private void OnMouseDown()
+    private void OnMouseUpAsButton()
     {
         switch(OpenCLoseFlag)
         {
@@ -18,13 +18,5 @@ public class drawer : MonoBehaviour
                 OpenCLoseFlag = true;
                 break;
         }
-    }
-    private void OnMouseEnter()
-    {
-        print("Mouse_Enter");
-    }
-    private void OnMouseExit()
-    {
-        print("Mouse_Exit");
     }
 }
